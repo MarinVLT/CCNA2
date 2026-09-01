@@ -29,7 +29,7 @@ Repositório dedicado ao armazenamento de anotações teóricas, comandos de con
 │   ├── Cenarios/           # Desafios de configuração e troubleshooting resolvidos
 │
 └── README.md
----
+
 ```
 
 ### 🛠️ Ferramentas Utilizadas
