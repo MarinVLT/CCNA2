@@ -18,12 +18,17 @@ Repositório dedicado ao armazenamento de anotações teóricas, comandos de con
 ### 📂 Estrutura do Repositório
 
 ```text
-├── Packet-Tracer/        # Arquivos de simulação (.pkt) e topologias de laboratório
-├── Comandos-CLI/         # Guias rápidos de comandos de configuração e verificação (show)
-└── Anotacoes/            # Resumos teóricos organizados por módulos
-
-```
-
+.
+├── Aulas/
+│   ├── Anotacoes/             # Resumos teóricos organizados por módulos
+│   ├── Comandos-CLI/          # Guias rápidos de comandos de configuração e verificação (show)
+│   ├── Packet-Tracer/         # Arquivos de simulação (.pkt) do Cisco Packet Tracer
+│
+├── Labs/
+│   ├── Packet-Tracer/      # Arquivos de simulação (.pkt) do Cisco Packet Tracer
+│   ├── Cenarios/           # Desafios de configuração e troubleshooting resolvidos
+│
+└── README.md
 ---
 
 ### 🛠️ Ferramentas Utilizadas
