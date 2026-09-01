@@ -30,6 +30,7 @@ Repositório dedicado ao armazenamento de anotações teóricas, comandos de con
 │
 └── README.md
 ---
+```
 
 ### 🛠️ Ferramentas Utilizadas
 
