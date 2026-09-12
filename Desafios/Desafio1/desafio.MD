@@ -19,3 +19,7 @@ Você não tem: a senha original ainda
 1. Lê o seed que já está salvo (8)
 2. Para cada byte cifrado, faz XOR com xlat[posição] (mesma posição!)
 3. Resultado: ASCII original → senha em texto puro
+
+### Correção a ser feita
+
+A seed no codigo dado pelo claude ia de 0 a 15, mas o tamanho do sorteio deve ser o tamanho de xlat
